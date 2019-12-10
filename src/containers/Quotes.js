@@ -30,3 +30,6 @@ class Quotes extends Component {
 
 //add arguments to connect as needed
 export default connect()(Quotes);
+
+
+// Build out several actions as specified in the tests that build Action Creators for add, removing, upvoting and downvoting quotes.
