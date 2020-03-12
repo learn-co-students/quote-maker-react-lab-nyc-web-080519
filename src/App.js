@@ -19,4 +19,3 @@ class App extends Component {
 
 export default App;
 
-// In our App component we will render the components: QuoteForm & Quotes
